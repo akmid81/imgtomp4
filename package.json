@@ -1,0 +1,11 @@
+{
+  "name": "imgtomp4",
+  "version": "1.0.0",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "@ffprobe-installer/ffprobe": "^1.4.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "path": "^0.12.7",
+    "videoshow": "^0.1.12"
+  }
+}
